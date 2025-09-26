@@ -20,6 +20,7 @@
 
 # RStudio files
 .Rproj.user/
+RShiny_Basics.Rproj
 
 # produced vignettes
 vignettes/*.html
@@ -38,6 +39,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+.Rprofile
+renv/
+renv.lock
 
 # pkgdown site
 docs/
